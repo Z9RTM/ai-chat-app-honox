@@ -128,3 +128,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+.wrangler
+.dev.vars
+.hono
+
+# Change them to your taste:
+bun.lockb
